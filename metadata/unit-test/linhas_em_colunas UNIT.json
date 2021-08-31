@@ -1,0 +1,14 @@
+{
+  "variableValues": [],
+  "database_replacements": [],
+  "autoOpening": false,
+  "basePath": "",
+  "golden_data_sets": [],
+  "input_data_sets": [],
+  "name": "linhas_em_colunas UNIT",
+  "description": "",
+  "trans_test_tweaks": [],
+  "persist_filename": "",
+  "pipeline_filename": "./linhas_em_colunas.hpl",
+  "test_type": "UNIT_TEST"
+}
